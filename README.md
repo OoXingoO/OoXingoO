@@ -12,6 +12,7 @@
 ## 👩🏻‍💻 About me
 ```yaml
 name: Xing
+pronouns: She/Her
 located_in: London, UK
 current_role: Trainee Software Engineer @ Digital Futures
 education: Bachelor's in Economics
@@ -25,7 +26,8 @@ fields_of_interests:
   "AI/Machine Learning"
 ]
 
-hobbies: ["Anime", "Manga", "Gaming", "Photography"]
+currently_learning: Everything tech!
+hobbies: ["Anime", "Manga", "Kpop", "Gaming", "Photography"]
 ```
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,8 +46,6 @@ hobbies: ["Anime", "Manga", "Gaming", "Photography"]
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📈 Github Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OoXingoO&layout=compact&theme=transparent)](https://github.com/OoXingoO)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=OoXingoO&hide=stars&count_private=true&theme=transparent&show_icons=true)](https://github.com/OoXingoO)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient)
