@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=150&section=header&text=Hello%20there!&fontSize=70&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=120&section=header&text=Hello%20there!&fontSize=70&fontColor=ffffff&animation=twinkling)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/xing-rong-huang-a45b01145">
@@ -15,7 +15,7 @@ name: Xing
 pronouns: She/Her
 located_in: London, UK
 current_role: Trainee Software Engineer @ Digital Futures
-education: Bachelor's in Economics
+education: Economics BSc (Hons)
 
 fields_of_interests:
 [
